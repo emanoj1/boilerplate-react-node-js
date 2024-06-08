@@ -1,8 +1,9 @@
 import React from 'react';
+import './Page.css'; // Shared page styling
 
 const Contact = () => {
   return (
-    <div>
+    <div className="page">
       <h1>Contact Us</h1>
       <p>This is the contact page of our website.</p>
     </div>
