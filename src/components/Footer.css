@@ -28,6 +28,24 @@ footer {
     margin: 0 10px;
     display: inline-block;
   }
+
+  .footer-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px; /* Add some gap between links */
+    font-size: 10px; /* Reduce font size */
+    padding: 20px;
+  }
+  
+  .footer-links a {
+    color: #e8dfdf; /* Change link color if needed */
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }  
   
   @media (max-width: 768px) {
     footer ul li {
