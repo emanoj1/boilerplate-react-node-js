@@ -1,6 +1,6 @@
 # Create a simple React website quickly!
 
-![Image Alt Text](public/homepage-ss-boilerplate.png)
+![Homepage template screenshot](public/homepage-ss-boilerplate.png)
 
 # Features
 - 6 pages ready (Home, About, Contact, TC, Privacy and Cookie policy pages)
