@@ -7,6 +7,8 @@ const Home = () => {
     <div className="home">
       <div className="home-image">
         <img src="homepage_image_unsplash.jpg" alt="Homepage image" />
+        <p>Photo by <a href="https://unsplash.com/photos/turned-off-laptop-computer-with-near-wall-mY3_bvR74fI" target="_blank" rel="noopener nonreferrer">Dillon Shook on Unsplash</a>
+        </p>
       </div>
       <div className="page">
         <h1>Welcome to the Homepage</h1>
