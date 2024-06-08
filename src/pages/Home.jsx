@@ -1,4 +1,5 @@
 import React from 'react';
+import './Page.css'; // Shared page styling
 
 const Home = () => {
   return (
