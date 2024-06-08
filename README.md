@@ -1,3 +1,17 @@
+# Create a simple React website quickly!
+
+![Image Alt Text](public/homepage-ss-boilerplate.png)
+
+# Features
+- 6 pages ready (Home, About, Contact, TC, Privacy and Cookie policy pages)
+- Social media links (Facebook, Twitter & Instagram) with icons ready!
+- Mobile responsible
+- Easy to customise to your needs
+
+# Let's get started!
+Clone this repository to your computer. Refer to the GitHub docs:
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
