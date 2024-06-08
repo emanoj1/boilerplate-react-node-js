@@ -24,10 +24,20 @@ footer {
     text-decoration: underline;
   }
   
-  .social-media a {
-    margin: 0 10px;
-    display: inline-block;
-  }
+/* Footer.css */
+
+.social-media {
+  display: flex;
+  justify-content: center; /* Center icons horizontally */
+  gap: 20px; /* Add some gap between icons */
+  font-size: 30px;
+}
+
+.social-media a {
+  color: #1aa4f4; /* Change link color if needed */
+  text-decoration: none;
+}
+
 
   .footer-links {
     display: flex;
