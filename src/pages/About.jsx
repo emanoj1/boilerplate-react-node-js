@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div>
+    <div className="page">
       <h1>About Us</h1>
       <p>What is Lorem Ipsum?
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
