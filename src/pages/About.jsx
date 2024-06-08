@@ -32,8 +32,8 @@ const About = () => {
         </p>
       </div>
       <div className='about-image'>
-        <img src="/aboutpage-image-unsplash.jpg" alt="About page image" />
-        <p>Photo by <a href="https://unsplash.com/photos/bird-flying-above-ground-during-daytime-7e9TPmPWWjs" target="_blank" rel="noopener nonreferrer">Justin Wang on Unsplash</a>
+        <img src="/aboutpage-image-unsplash.jpg" alt="Scenery" />
+        <p>Photo by <a href="https://unsplash.com/photos/bird-flying-above-ground-during-daytime-7e9TPmPWWjs" target="_blank" rel="noopener noreferrer">Justin Wang on Unsplash</a>
         </p>
       </div>
     </div>
