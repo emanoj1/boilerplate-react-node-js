@@ -26,5 +26,19 @@ footer {
   
   .social-media a {
     margin: 0 10px;
+    display: inline-block;
   }
+  
+  @media (max-width: 768px) {
+    footer ul li {
+      display: block;
+      margin: 5px 0;
+    }
+    
+    .social-media a {
+      display: block;
+      margin: 5px 0;
+    }
+  }
+  
   
