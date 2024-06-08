@@ -3,7 +3,7 @@ import './Page.css'; // Shared page styling
 
 const Home = () => {
   return (
-    <div>
+    <div className="page">
       <h1>Welcome to the Homepage</h1>
       <p>What is Lorem Ipsum?
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
