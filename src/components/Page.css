@@ -12,5 +12,6 @@
   
   .page p {
     max-width: 600px;
+    margin-bottom: 20px; /* Add margin-bottom to create space between paragraphs */
   }
   

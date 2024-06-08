@@ -5,7 +5,7 @@ import '../components/About.css'; // Specific styles for the About component
 const About = () => {
   return (
     <div className="about">
-      <div className="about-content">
+      <div className="page">
         <h1>About Us</h1>
         <p>What is Lorem Ipsum?
         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
