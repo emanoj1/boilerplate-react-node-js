@@ -2,6 +2,9 @@
 
 ![Homepage template screenshot](public/homepage-ss-boilerplate.png)
 
+Check out the template!
+https://react-nodejs-boilerplate.netlify.app/
+
 # Features
 - 6 pages ready (Home, About, Contact, TC, Privacy and Cookie policy pages)
 - Social media links (Facebook, Twitter & Instagram) with icons ready!
